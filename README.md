@@ -34,8 +34,8 @@ with:
 1. Read [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) (Est. time: 38 minutes)
 2. Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
    on smart contracts development. (Est. time: 15 minutes)
-3. Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
-4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
+3. ~~Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)~~
+4. ~~Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)~~
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
 #### Practice
@@ -51,7 +51,7 @@ with:
 
 1. Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) (Est. time: 24 hs)
 2. Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
-3. [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) (Est. time: 2 hs)
+3. ~~[Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) (Est. time: 2 hs)~~
 
 ## Concepts
 
