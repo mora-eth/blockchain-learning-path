@@ -115,13 +115,13 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 
 #### General
 
-- [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
-- [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
-- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
+- ~~[eth-cli](https://github.com/protofire/eth-cli) - CLI tools.~~
+- ~~[REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.~~
+- ~~[Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.~~
 
 #### Audit
 
-- [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
+- ~~[SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.~~
 
 #### Utility
 
@@ -135,9 +135,9 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 
 #### Newsletters
 
-- [Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc
-- [Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.
-- [Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.
+- ~~[Week in Ethereum News](https://www.weekinethereumnews.com/) - Ethereum news and links, layer 1, layer 2, client releases, stuff for developers, interviews, podcasts, videos, talks, etc~~
+- ~~[Reddit: /r/ethereum/](https://www.reddit.com/r/ethereum/) - Reddit about next-generation platform for decentralised applications.~~
+- ~~[Reddit: /r/ethdev](https://www.reddit.com/r/ethdev) - Reddit about ethereum-related dev talk: Contracts, DApps, Wallets, Clients, Infrastructure, Tooling, UIs, Patterns, and others.~~
 - [Ethereum Research](http://ethresear.ch/) - Civilized discussion furthering Ethereum research
 
 #### Talks
